@@ -25,4 +25,8 @@
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/akshitbansal2005/Leetcode/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
