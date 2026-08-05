@@ -20,6 +20,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/akshitbansal2005/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/akshitbansal2005/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -29,6 +30,7 @@
 | [0101-symmetric-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/akshitbansal2005/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -38,6 +40,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/akshitbansal2005/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -59,6 +62,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/akshitbansal2005/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/akshitbansal2005/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -66,6 +70,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/akshitbansal2005/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshitbansal2005/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshitbansal2005/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/akshitbansal2005/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -160,4 +165,8 @@
 |  |
 | ------- |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/akshitbansal2005/Leetcode/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
