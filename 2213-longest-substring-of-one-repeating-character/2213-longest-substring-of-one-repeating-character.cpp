@@ -4,7 +4,7 @@ public:
     vector<int> longestRepeating(string s, string queryCharacters, vector<int>& queryIndices) {
         int n = s.size();
         int blockSize = sqrt(n) + 1;
-        int totalBlocks = (n + blockSize - 1) / blockSize;
+        int totalBlocks = (n + blockSize - 1)/blockSize;
         vector<int> leftCnt(totalBlocks);
         vector<int> rightCnt(totalBlocks);
         vector<int> best(totalBlocks);
