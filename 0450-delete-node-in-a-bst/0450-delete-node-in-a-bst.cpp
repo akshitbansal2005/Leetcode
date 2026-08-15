@@ -30,12 +30,12 @@ public:
                 delete root;
                 return temp;
             }
-            TreeNode* temp = root->right;
-            while(temp->left!=NULL){
-                temp=temp->left;
+            TreeNode* temp = root->left;
+            while(temp->right!=NULL){
+                temp=temp->right;
             }
             root->val=temp->val;
-            root->right = deleteNode(root->right, temp->val);
+            root->left = deleteNode(root->left, temp->val);
         }
         return root;
     }
