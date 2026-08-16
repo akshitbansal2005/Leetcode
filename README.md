@@ -102,6 +102,7 @@
 | [0877-stone-game](https://github.com/akshitbansal2005/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/akshitbansal2005/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshitbansal2005/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2029-stone-game-ix](https://github.com/akshitbansal2005/Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/akshitbansal2005/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshitbansal2005/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akshitbansal2005/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -115,6 +116,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/akshitbansal2005/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/akshitbansal2005/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/akshitbansal2005/Leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/akshitbansal2005/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshitbansal2005/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/akshitbansal2005/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/akshitbansal2005/Leetcode/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
@@ -130,11 +132,13 @@
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/akshitbansal2005/Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshitbansal2005/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/akshitbansal2005/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/akshitbansal2005/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshitbansal2005/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshitbansal2005/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
@@ -154,6 +158,7 @@
 | [0486-predict-the-winner](https://github.com/akshitbansal2005/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/akshitbansal2005/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/akshitbansal2005/Leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/akshitbansal2005/Leetcode/tree/master/2029-stone-game-ix) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,10 +172,12 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/akshitbansal2005/Leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/akshitbansal2005/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/akshitbansal2005/Leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/akshitbansal2005/Leetcode/tree/master/2029-stone-game-ix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -220,4 +227,8 @@
 | [0450-delete-node-in-a-bst](https://github.com/akshitbansal2005/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/akshitbansal2005/Leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
