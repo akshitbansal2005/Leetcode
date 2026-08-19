@@ -8,6 +8,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akshitbansal2005/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1386-cinema-seat-allocation](https://github.com/akshitbansal2005/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshitbansal2005/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akshitbansal2005/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshitbansal2005/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -107,6 +108,7 @@
 | [0486-predict-the-winner](https://github.com/akshitbansal2005/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshitbansal2005/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/akshitbansal2005/Leetcode/tree/master/0877-stone-game) |
+| [1386-cinema-seat-allocation](https://github.com/akshitbansal2005/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/akshitbansal2005/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshitbansal2005/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/akshitbansal2005/Leetcode/tree/master/1563-stone-game-v) |
@@ -148,6 +150,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/akshitbansal2005/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/akshitbansal2005/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshitbansal2005/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshitbansal2005/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -179,6 +182,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/akshitbansal2005/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1386-cinema-seat-allocation](https://github.com/akshitbansal2005/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/akshitbansal2005/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
 |  |
