@@ -4,27 +4,27 @@ public:
 
 
 /* 2 functions bana lege like -> prod and sum jisme
-     sum =0, and product =1 and %10 lege just because of 0,1,2,3,4,5,6,7,8,9
+     sum =0, and product =1 and num%10 lege because to find the last digit
         and last mei return krdege   */
     int prod(int n){
         int num=n;
-        int res =1;
+        int ans =1;
         while(num!=0){
-            res*=(num%10);
+            ans*=(num%10);
             num/=10;
         }
-        return res;
+        return ans;
     }
     int sum(int n){
         int num=n;
-        int res =0;
+        int ans =0;
         while(num!=0){
-            res+=(num%10);
+            ans+=(num%10);
             num/=10;
         }
-        return res;
+        return ans;
     }
     bool checkDivisibility(int n) {
-        return n %(sum(n)+prod(n))==0;
+        return n %(prod(n)+sum(n))==0;
     }
 };
