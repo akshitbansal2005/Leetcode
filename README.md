@@ -36,6 +36,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshitbansal2005/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshitbansal2005/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | [0486-predict-the-winner](https://github.com/akshitbansal2005/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshitbansal2005/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/akshitbansal2005/Leetcode/tree/master/0877-stone-game) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshitbansal2005/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1386-cinema-seat-allocation](https://github.com/akshitbansal2005/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/akshitbansal2005/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshitbansal2005/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -231,6 +234,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akshitbansal2005/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshitbansal2005/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -253,6 +257,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/akshitbansal2005/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshitbansal2005/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Nim Game
 |  |
 | ------- |
@@ -269,4 +274,8 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akshitbansal2005/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshitbansal2005/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
