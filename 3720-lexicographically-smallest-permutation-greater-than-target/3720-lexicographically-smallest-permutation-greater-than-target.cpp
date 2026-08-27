@@ -19,9 +19,7 @@ public:
         for (int i = 0;i<n;i++) {
             count[s[i] -'a']++;
         }
-
         string result= "";
-
         for (int i=0;i< n;i++) {
             int targetChar =target[i]-'a';
             if (count[targetChar]> 0) {
