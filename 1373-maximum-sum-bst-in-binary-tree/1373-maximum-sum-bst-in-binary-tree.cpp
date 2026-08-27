@@ -50,7 +50,10 @@
 
 
 /*
-The main idea: for every node, return min, max, and sum of the subtree. If the left maximum is smaller than the current node and the current node is smaller than the right minimum, the subtree is a BST.*/
+The main idea: for every node, return min, max, and sum of the subtree.
+ If the left maximum is smaller than the current node and the current node 
+ is smaller than the right minimum, the subtree is a BST
+ */
 
 
 class NodeValue {
