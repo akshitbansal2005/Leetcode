@@ -56,28 +56,28 @@ The main idea: for every node, return min, max, and sum of the subtree.
  */
 
 
-class NodeValue {
+class NodeValue{
 public:
     int minNode;
     int maxNode;
     int sum;
-    NodeValue(int minNode, int maxNode, int sum) {
+    NodeValue(int minNode, int maxNode, int sum){
         this->minNode = minNode;
         this->maxNode = maxNode;
         this->sum = sum;
     }
 };
-class Solution {
+class Solution{
 private:
     int ans = 0;
-    NodeValue solve(TreeNode* root) {
-        if (root== NULL) {
+    NodeValue solve(TreeNode* root){
+        if (root== NULL){
             return NodeValue(INT_MAX, INT_MIN, 0);
         }
         NodeValue left = solve(root->left);
         NodeValue right = solve(root->right);
         if (left.maxNode < root->val &&
-            root->val < right.minNode) {
+            root->val < right.minNode){
             int currSum = left.sum + right.sum + root->val;
             ans = max(ans, currSum);
             int mn = min(root->val, left.minNode);
@@ -89,7 +89,7 @@ private:
     }
 
 public:
-    int maxSumBST(TreeNode* root) {
+    int maxSumBST(TreeNode* root){
         solve(root);
         return ans;
     }
