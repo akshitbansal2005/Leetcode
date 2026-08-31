@@ -18,7 +18,7 @@ public:
         int first =-1;
         int last =-1;
         int mn =INT_MAX;
-        while(curr->next != NULL){
+        while(curr->next !=NULL){
             int next=curr->next->val;
             if((curr->val>prev->val&&curr->val>next) ||
                 (curr->val<prev->val&&curr->val<next)) {
