@@ -153,6 +153,7 @@
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/akshitbansal2005/Leetcode/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3731-find-missing-elements](https://github.com/akshitbansal2005/Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshitbansal2005/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/akshitbansal2005/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akshitbansal2005/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/akshitbansal2005/Leetcode/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshitbansal2005/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/akshitbansal2005/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
