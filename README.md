@@ -176,6 +176,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/akshitbansal2005/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akshitbansal2005/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/akshitbansal2005/Leetcode/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
+| [3870-count-commas-in-range](https://github.com/akshitbansal2005/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshitbansal2005/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/akshitbansal2005/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Heap (Priority Queue)
