@@ -135,6 +135,7 @@
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/akshitbansal2005/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akshitbansal2005/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akshitbansal2005/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0486-predict-the-winner](https://github.com/akshitbansal2005/Leetcode/tree/master/0486-predict-the-winner) |
@@ -246,6 +247,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/akshitbansal2005/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/akshitbansal2005/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akshitbansal2005/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
@@ -281,6 +283,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/akshitbansal2005/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akshitbansal2005/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/akshitbansal2005/Leetcode/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 ## Number Theory
