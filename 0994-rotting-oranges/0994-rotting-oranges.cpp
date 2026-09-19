@@ -31,7 +31,7 @@ public:
             for(int i=0;i<4;i++){
                 int nrow=r+delrow[i];
                 int ncol=c+delcol[i];
-                if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && vis[nrow][ncol]!=2 &&grid[nrow][ncol]==1){
+                if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && vis[nrow][ncol]==0 &&grid[nrow][ncol]==1){
                     q.push({{nrow,ncol},t+1});
                     vis[nrow][ncol]=2;
                     cnt++;
@@ -48,6 +48,7 @@ public:
                 }
             }
         }
+        // if(cnt!=cntFresh) return -1;
         return time;
     }
 };
