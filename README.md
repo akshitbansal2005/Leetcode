@@ -136,6 +136,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/akshitbansal2005/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akshitbansal2005/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/akshitbansal2005/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/akshitbansal2005/Leetcode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Array
 |  |
 | ------- |
@@ -325,6 +326,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshitbansal2005/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshitbansal2005/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akshitbansal2005/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/akshitbansal2005/Leetcode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Segment Tree
 |  |
 | ------- |
@@ -390,6 +392,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/akshitbansal2005/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akshitbansal2005/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/akshitbansal2005/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/akshitbansal2005/Leetcode/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## DP on Trees
 |  |
 | ------- |
