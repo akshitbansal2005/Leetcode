@@ -125,6 +125,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/akshitbansal2005/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0344-reverse-string](https://github.com/akshitbansal2005/Leetcode/tree/master/0344-reverse-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshitbansal2005/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/akshitbansal2005/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/akshitbansal2005/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -388,6 +389,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/akshitbansal2005/Leetcode/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akshitbansal2005/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/akshitbansal2005/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/akshitbansal2005/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
