@@ -56,6 +56,7 @@
 | [0101-symmetric-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akshitbansal2005/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/akshitbansal2005/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/akshitbansal2005/Leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akshitbansal2005/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/akshitbansal2005/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/akshitbansal2005/Leetcode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/akshitbansal2005/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akshitbansal2005/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -145,6 +147,7 @@
 | [0074-search-a-2d-matrix](https://github.com/akshitbansal2005/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akshitbansal2005/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akshitbansal2005/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/akshitbansal2005/Leetcode/tree/master/0200-number-of-islands) |
 | [0486-predict-the-winner](https://github.com/akshitbansal2005/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshitbansal2005/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/akshitbansal2005/Leetcode/tree/master/0733-flood-fill) |
@@ -299,6 +302,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/akshitbansal2005/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/akshitbansal2005/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/akshitbansal2005/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/akshitbansal2005/Leetcode/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akshitbansal2005/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -407,6 +411,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/akshitbansal2005/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/akshitbansal2005/Leetcode/tree/master/0547-number-of-provinces) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshitbansal2005/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Geometry
