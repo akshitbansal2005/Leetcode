@@ -68,6 +68,7 @@
 | [0733-flood-fill](https://github.com/akshitbansal2005/Leetcode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/akshitbansal2005/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/akshitbansal2005/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -84,6 +85,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/akshitbansal2005/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/akshitbansal2005/Leetcode/tree/master/1020-number-of-enclaves) |
 | [3310-remove-methods-from-project](https://github.com/akshitbansal2005/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akshitbansal2005/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
@@ -156,6 +158,7 @@
 | [0877-stone-game](https://github.com/akshitbansal2005/Leetcode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/akshitbansal2005/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshitbansal2005/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/akshitbansal2005/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1386-cinema-seat-allocation](https://github.com/akshitbansal2005/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/akshitbansal2005/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshitbansal2005/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -308,6 +311,7 @@
 | [0200-number-of-islands](https://github.com/akshitbansal2005/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/akshitbansal2005/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/akshitbansal2005/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/akshitbansal2005/Leetcode/tree/master/1020-number-of-enclaves) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akshitbansal2005/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3725-count-ways-to-choose-coprime-integers-from-rows](https://github.com/akshitbansal2005/Leetcode/tree/master/3725-count-ways-to-choose-coprime-integers-from-rows) |
 ## Number Theory
@@ -416,6 +420,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/akshitbansal2005/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/akshitbansal2005/Leetcode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/akshitbansal2005/Leetcode/tree/master/1020-number-of-enclaves) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshitbansal2005/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Geometry
 |  |
