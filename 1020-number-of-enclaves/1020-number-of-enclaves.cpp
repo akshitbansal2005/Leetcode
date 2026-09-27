@@ -21,8 +21,8 @@ public:
         int dx[4] = {-1, 1, 0, 0};
         int dy[4] = {0, 0, 1, -1};
         while(!q.empty()){
-            int sz = q.size();
-            while(sz--){
+            int s = q.size();
+            while(s--){
                 auto [x, y] = q.front();
                 q.pop();
                 for(int d =0;d<4;d++){
