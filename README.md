@@ -130,6 +130,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/akshitbansal2005/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/akshitbansal2005/Leetcode/tree/master/0022-generate-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/akshitbansal2005/Leetcode/tree/master/0344-reverse-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshitbansal2005/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -245,6 +246,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/akshitbansal2005/Leetcode/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/akshitbansal2005/Leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/akshitbansal2005/Leetcode/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/akshitbansal2005/Leetcode/tree/master/0877-stone-game) |
@@ -430,4 +432,12 @@
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/akshitbansal2005/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/akshitbansal2005/Leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/akshitbansal2005/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
