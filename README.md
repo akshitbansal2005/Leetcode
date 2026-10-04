@@ -135,6 +135,7 @@
 | [0022-generate-parentheses](https://github.com/akshitbansal2005/Leetcode/tree/master/0022-generate-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/akshitbansal2005/Leetcode/tree/master/0344-reverse-string) |
+| [0678-valid-parenthesis-string](https://github.com/akshitbansal2005/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshitbansal2005/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akshitbansal2005/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/akshitbansal2005/Leetcode/tree/master/1927-sum-game) |
@@ -235,6 +236,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/akshitbansal2005/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/akshitbansal2005/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshitbansal2005/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/akshitbansal2005/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -251,6 +253,7 @@
 | [0022-generate-parentheses](https://github.com/akshitbansal2005/Leetcode/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/akshitbansal2005/Leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/akshitbansal2005/Leetcode/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/akshitbansal2005/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/akshitbansal2005/Leetcode/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/akshitbansal2005/Leetcode/tree/master/1406-stone-game-iii) |
@@ -343,6 +346,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akshitbansal2005/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/akshitbansal2005/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0678-valid-parenthesis-string](https://github.com/akshitbansal2005/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshitbansal2005/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Sliding Window
 |  |
@@ -443,6 +447,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/akshitbansal2005/Leetcode/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/akshitbansal2005/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Topological Sort
 |  |
 | ------- |
