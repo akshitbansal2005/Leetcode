@@ -67,6 +67,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akshitbansal2005/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/akshitbansal2005/Leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/akshitbansal2005/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/akshitbansal2005/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -85,6 +86,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akshitbansal2005/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/akshitbansal2005/Leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/akshitbansal2005/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akshitbansal2005/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/akshitbansal2005/Leetcode/tree/master/0994-rotting-oranges) |
@@ -318,6 +320,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/akshitbansal2005/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/akshitbansal2005/Leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/akshitbansal2005/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [3310-remove-methods-from-project](https://github.com/akshitbansal2005/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
@@ -440,6 +443,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/akshitbansal2005/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/akshitbansal2005/Leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/akshitbansal2005/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/akshitbansal2005/Leetcode/tree/master/1020-number-of-enclaves) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshitbansal2005/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Geometry
@@ -466,4 +470,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/akshitbansal2005/Leetcode/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/akshitbansal2005/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/akshitbansal2005/Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
